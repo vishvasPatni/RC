@@ -1,0 +1,499 @@
+[
+  {
+    "id": 1,
+    "image": "ing/brs-acrylic-120ml-set.png",
+    "name": "Brustro Artists' Acrylic 120ml, 30 Shades (Complete Range)",
+    "price": 6810.00
+  },
+  {
+    "id": 2,
+    "image": "img/brs-alcohol-ink-12.jpg",
+    "name": "PROFESSIONAL ALCOHOL INK SET OF 12 X 20ML",
+    "price": 1599.00
+  },
+  {
+    "id": 3,
+    "image": "img/brs-art-easel-wood-2.jpg",
+    "name": "Artists' Master Multi-Function Studio Artist Wood Floor Easel.",
+    "price": 13998.00
+  },
+  {
+    "id": 4,
+    "image": "img/brs-easel-wood-3.png",
+    "name": "Artists' H-Frame Studio Wooden Easel.",
+    "price": 9999.00
+  },
+  {
+    "id": 5,
+    "image": "img/brs-gou-24.jpg",
+    "name": "Artists’ Gouache Colour Set of 24 Colours X 12ML Tubes",
+    "price": 897.00
+  },
+  {
+    "id": 6,
+    "image": "img/brs-gou-set-12.jpg",
+    "name": "Artists’ Gouache Colour Set of 12 Colours X 12ML Tubes",
+    "price": 435.00
+  },
+  {
+    "id": 7,
+    "image": "img/brs-m-arcy-24.jpg",
+    "name": "Artists’ Metallic Acrylic Set of 24x12ml",
+    "price": 999.00
+  },
+  {
+    "id": 8,
+    "image": "img/brs-m-water-14.jpg",
+    "name": "Artist Metallic Watercolour Half Pans Set of 14",
+    "price": 699.00
+  },
+  {
+    "id": 9,
+    "image": "img/brs-watercolor-pencil-72.webp",
+    "name": "WATER COLOUR PENCILS SET OF 72",
+    "price": 2199.00
+  },
+  {
+    "id": 10,
+    "image": "img/brs-water-pan-42.jpg",
+    "name": "Artists ’ Watercolour Pan (Set of 42 Colours)",
+    "price": 1599.00
+  },
+  {
+    "id": 11,
+    "image": "img/creta-advance-drawing-set-26.jpg",
+    "name": "Teacher’s Choice – Advanced Drawing Set of 26",
+    "price": 3441.00
+  },
+  {
+    "id": 12,
+    "image": "img/creta-bkbox-set-2.jpeg",
+    "name": "Black Box Charcoal Drawing Set of 20 – Wooden Box",
+    "price": 3441.00
+  },
+  {
+    "id": 13,
+    "image": "img/creta-draw-pencil-24.jpg",
+    "name": "CRETACOLOR FINE ART DRAWING PENCIL SET OF 24",
+    "price": 1486.00
+  },
+  {
+    "id": 14,
+    "image": "img/creta-fine-pastel-pencil-set-36.jpg",
+    "name": "Fine Art Pastel Pencil Set of 36",
+    "price": 3921.00
+  },
+  {
+    "id": 15,
+    "image": "img/creta-fine-pastel-pencil-set-72.jpg",
+    "name": "Fine Art Pastel Pencil Set of 72",
+    "price": 7101.00
+  },
+  {
+    "id": 16,
+    "image": "img/creta-hard-pastel-set-72.jpg",
+    "name": "Hard Pastel Carre Assorted Set of 72",
+    "price": 4080.00
+  },
+  {
+    "id": 17,
+    "image": "img/creta-megha-colorpencil-set-36.jpg",
+    "name": "Cretacolor 36 Mega Color Pencils",
+    "price": 3504.00
+  },
+  {
+    "id": 18,
+    "image": "img/creta-silverbox-graphit-draw-set-1.jpg",
+    "name": "Cretacolor Silver Box Graphite Drawing Set of 17 – Wooden Box",
+    "price": 3441.00
+  },
+  {
+    "id": 19,
+    "image": "img/creta-water-color-pencil-set-36.jpg",
+    "name": "Marino Aquarelle Watercolor Pencil Set of 36 (Water Soluble Colour Pencils)",
+    "price": 2967.00
+  },
+  {
+    "id": 20,
+    "image": "img/DN-dot-chart.jpg",
+    "name": "Watercolor 238 Dot Color Chart",
+    "price": 2250.00
+  },
+  {
+    "id": 21,
+    "image": "img/DN-watercolor-alvaro Castagnet-set-10.jpg",
+    "name": "Daniel Smith 285610016 Alvaro Castagnet Master Artist Watercolor Set (10 Pack), 5ml",
+    "price": 7255.00
+  },
+  {
+    "id": 22,
+    "image": "img/DN-watercolor-Jansen_Chow's-set-6.jpg",
+    "name": "Daniel Smith Watercolor 6 Color Jansen Chow's Master Artist Set #1 (6 X 5ml Tubes)",
+    "price": 3970.00
+  },
+  {
+    "id": 23,
+    "image": "img/DN-watercolor-Jean_Haines-set-6.jpg",
+    "name": "Daniel Smith Jean Haines’ Green with Envy Set of 6 Watercolor Tubes",
+    "price": 4650.00
+  },
+  {
+    "id": 24,
+    "image": "img/DN-watercolor-Milind_Mulicks-set-6.jpg",
+    "name": "Daniel Smith Milind Mulick Master Artist Watercolor Set of 6 Shades",
+    "price": 3970.00
+  },
+  {
+    "id": 25,
+    "image": "img/DN-watercolor-Praful_Swant's-set-6.jpg",
+    "name": "Daniel Smith Extra Fine Prafull Sawant's Master Watercolor, 6 Tubes, 5ml Set",
+    "price": 3970.00
+  },
+  {
+    "id": 26,
+    "image": "img/DN-watercolor-Stella_Canfield's-set-6.jpg",
+    "name": "Daniel Smith Watercolor 6 Color Stella Canfield's Master Artist Set #1 (6 X 5ml Tubes)",
+    "price": 4510.00
+  },
+  {
+    "id": 27,
+    "image": "img/DN-watercolor-tube-Lesya_Poplavskaya's-set-6.jpg",
+    "name": "Daniel Smith Lesya Poplavskaya’s Alternative Portrait Set – Daniel Smith watercolors (6 tube)",
+    "price": 4520.00
+  },
+  {
+    "id": 28,
+    "image": "img/epoke-amethyst-stone.jpg",
+    "name": "EPOKE EARTH -Amethyst Crystals(250g)",
+    "price": 215.00
+  },
+  {
+    "id": 29,
+    "image": "img/epoke-bus_green-metallic-color-resin-1.jpg",
+    "name": "Bus Green (Opaque) - Mini Pigment Paste -25g",
+    "price": 135.00
+  },
+  {
+    "id": 30,
+    "image": "img/epoke-clear-stone.jpg",
+    "name": "EPOKE EARTH -Clear Quartz Crystals(250g)",
+    "price": 135.00
+  },
+  {
+    "id": 31,
+    "image": "img/epoke-deep_copper-metallic-color-resin-1.jpg",
+    "name": "Deep Copper (Metallic) - Mini Pigment Paste -20g",
+    "price": 135.00
+  },
+  {
+    "id": 32,
+    "image": "img/epoke-efx-resin-1.5kg.jpg",
+    "name": "EPOKE EFX Epoxy Resin Hobby Kit (1500g)",
+    "price": 2350.00
+  },
+  {
+    "id": 33,
+    "image": "img/epoke-india_badge_mould.jpg",
+    "name": "India Badge Mould (M4)",
+    "price": 315.00
+  },
+  {
+    "id": 34,
+    "image": "img/epoke-Ocean_kit_set-1.jpg",
+    "name": "EPOKE Art Pigments - Ocean Effect Kit",
+    "price": 1500.00
+  },
+  {
+    "id": 35,
+    "image": "img/epoke-pig-set-ep1.jpg",
+    "name": "Beach Please Mini Pigment Kit - EP1",
+    "price": 500.00
+  },
+  {
+    "id": 36,
+    "image": "img/epoke-pig-set-ep2.jpg",
+    "name": "Absolute Delight Mini Pigment Kit - EP2",
+    "price": 500.00
+  },
+  {
+    "id": 37,
+    "image": "img/epoke-pig-set-ep3.jpg",
+    "name": "Happy Vibe Mini Pigment Kit - EP3",
+    "price": 500.00
+  },
+  {
+    "id": 38,
+    "image": "img/epoke-pig-set-ep4.jpg",
+    "name": "Pastel POP Mini Pigment Kit - EP4",
+    "price": 500.00
+  },
+  {
+    "id": 39,
+    "image": "img/epoke-pig-set-ep5.jpg",
+    "name": "Summer Popsicle Mini Pigment Kit - EP5",
+    "price": 500.00
+  },
+  {
+    "id": 40,
+    "image": "img/epoke-polish-50g.jpg",
+    "name": "EPOKE POP Polish - Resin Polish(50g)",
+    "price": 450.00
+  },
+  {
+    "id": 41,
+    "image": "img/epoke-resin-1.3kg.jpg",
+    "name": "EPOKE Art Epoxy Resin v.2.0 Hobby Kit (1200g)",
+    "price": 1550.00
+  },
+  {
+    "id": 42,
+    "image": "img/epoke-resin-28kg.jpg",
+    "name": "EPOKE Art Epoxy Resin Professional Kit (28kg)",
+    "price": 28000.00
+  },
+  {
+    "id": 43,
+    "image": "img/epoke-resin-300g.jpg",
+    "name": "EPOKE Art Epoxy Resin v2.0 Starter Kit (300gms)",
+    "price": 630.00
+  },
+  {
+    "id": 44,
+    "image": "img/epoke-resin-big.webp",
+    "name": "EPOKE Art Epoxy Resin Handy Pro Kit (8kg)",
+    "price": 9000.00
+  },
+  {
+    "id": 45,
+    "image": "img/epoke-rose-stone.jpg",
+    "name": "EPOKE EARTH -Rose Quartz Crystals(250g)",
+    "price": 215.00
+  },
+  {
+    "id": 46,
+    "image": "img/epoke-stone-bk.jpg",
+    "name": "EPOKE EARTH -Black Agate Crystals(250g)",
+    "price": 215.00
+  },
+  {
+    "id": 47,
+    "image": "img/MG-watercolor-set-1.jpg",
+    "name": "MIJELLO MISSION GOLD CLASS PURE PIGMENT PROFESSIONAL GRADE EXTRA-FINE WATERCOLOUR - SET OF 34 X 15 ML TUBES",
+    "price": 19095.00
+  },
+  {
+    "id": 48,
+    "image": "img/MG-watercolor-set-4.jpg",
+    "name": "MISSION GOLD PROFESSIONAL GRADE EXTRA-FINE WATERCOLOUR - SET OF 24 PANS X HALF PANS",
+    "price": 8840.00
+  },
+  {
+    "id": 49,
+    "image": "img/MG-watercolor-set-17x15ml.jpg",
+    "name": "MIJELLO MISSION GOLD CLASS PURE PIGMENT PROFESSIONAL GRADE EXTRA-FINE WATERCOLOUR - SET OF 17 X 15 ML TUBES",
+    "price": 9545.00
+  },
+  {
+    "id": 50,
+    "image": "img/MG-watercolor-set-36x7ml.jpg",
+    "name": "MISSION GOLD PROFESSIONAL GRADE EXTRA-FINE WATERCOLOUR - SET OF 36 TUBES X 7 ML",
+    "price": 10050.00
+  },
+  {
+    "id": 51,
+    "image": "img/sen-extra-softpastel.jpg",
+    "name": "Sennelier Extra Soft Pastel Set of 100 – Landscape",
+    "price": 26997.00
+  },
+  {
+    "id": 52,
+    "image": "img/sennelier-watercolor-box-set-1.jpg",
+    "name": "Aquarelle French Artists’ Watercolor Set",
+    "price": 54999.00
+  },
+  {
+    "id": 53,
+    "image": "img/sennelier-watercolor-set-12-pan.jpg",
+    "name": "Sennelier Aquarelle French Artists’ Watercolor Set – Metal Box of 12 Half Pans",
+    "price": 3699.00
+  },
+  {
+    "id": 54,
+    "image": "img/sennelier-watercolor-set-14pan.jpg",
+    "name": "Sennelier Aquarelle French Artists’ Watercolor Set – Metal Box of 14 Half Pans",
+    "price": 8751.00
+  },
+  {
+    "id": 55,
+    "image": "img/sennelier-watercolor-set-24pan.jpg",
+    "name": "Sennelier Aquarelle French Artists’ Watercolor Set – Metal Box of 24 Half Pans",
+    "price": 9969.00
+  },
+  {
+    "id": 56,
+    "image": "img/sennelier-watercolor-set-48-pan.jpg",
+    "name": "Sennelier Aquarelle French Artists’ Watercolor Set – Metal Box of 48 Half Pans",
+    "price": 15669.00
+  },
+  {
+    "id": 57,
+    "image": "img/staed-dual-brushpen-set-72.jpg",
+    "name": "DOUBLE ENDED FIBER TIP MARKER SET OF 72-3200 TB72 (Brush Pen)",
+    "price": 2880.00
+  },
+  {
+    "id": 58,
+    "image": "img/staed-dual-brushpen-set-120.jpg",
+    "name": "DOUBLE ENDED FIBER TIP MARKER SET OF 120-3200 TB120 (Brush Pen)",
+    "price": 4850.00
+  },
+  {"id": 59,
+    "name": "SOFT ERASER 526 S20",
+    "price": 45.00,
+    "image": "img/staed-eraser-soft.jpg"
+  },
+  {
+    "id": 60,
+    "image": "img/staed-finliner-set-10.jpg",
+    "name": "STAEDTLER TRIPLUS HAPPY FINELINER SET OF 10-334 C10 HA",
+    "price": 1095.00
+  },
+  {
+    "id": 61,
+    "image": "img/staed-finliner-set-13.jpg",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 13-334 TB13",
+    "price": 1150.00
+  },
+  {
+    "id": 62,
+    "image": "img/staed-finliner-set-30.png",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 30-334 C30P",
+    "price": 2595.00
+  },
+  {
+    "id": 63,
+    "image": "img/staed-finliner-set-36.jpg",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 36-334 C36",
+    "price": 3095.00
+  },
+  {
+    "id": 64,
+    "image": "img/staed-finliner-set-42.jpg",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 42-334 C42",
+    "price": 3650.00
+  },
+  {
+    "id": 65,
+    "image": "img/staed-finliner-set-48.jpg",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 48-334 C48C",
+    "price": 4095.00
+  },
+  {
+    "id": 66,
+    "image": "img/staed-finliner-set-60.jpg",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 60-334 C60",
+    "price": 4950.00
+  },
+  {
+    "id": 67,
+    "image": "img/staed-finliner-set-P-4.jpg",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 4-334 SB4",
+    "price": 500.00
+  },
+  {
+    "id": 68,
+    "image": "img/staed-finliner-set-P-10.jpg",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 10-334 SB10",
+    "price": 1150.00
+  },
+  {
+    "id": 69,
+    "image": "img/staed-finliner-set-P-20.jpg",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 20-334 SB20",
+    "price": 2300.00
+  },
+  {
+    "id": 70,
+    "image": "img/staed-finliner-set-Tin-30.png",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 30-334 M30",
+    "price": 2795.00
+  },
+  {
+    "id": 71,
+    "image": "img/staed-finliner-set-tin-50.jpg",
+    "name": "STAEDTLER TRIPLUS FINELINER SET OF 50-334 M50",
+    "price": 4550.00
+  },
+  {
+    "id": 72,
+    "image": "img/staed-full-body-watercolor-pencil-12.jpeg",
+    "name": "FULL WATERCOLOUR PENCIL 12-146 10GM12",
+    "price": 2795.00
+  },
+  {
+    "id": 73,
+    "image": "img/staed-met-brushpen-set-10.jpg",
+    "name": "STAEDTLER METALIC BRUSH PEN SET OF 10-8321 TB10",
+    "price": 1525.00
+  },
+  {
+    "id": 74,
+    "image": "img/staed-triplus-highlighter-set-10.jpg",
+    "name": "STAEDTLER TRIPLUS HIGHLIGHTER SET OF 10-362 CSB10",
+    "price": 1600.00
+  },
+  {
+    "id": 75,
+    "image": "img/staed-watercolour-karat-set-60.jpg",
+    "name": "STAEDTLER KARAT AQUARELL WATERCOLOUR PENCIL SET 60-125M60\n",
+    "price": 9500.00
+  },
+  {
+    "id": 76,
+    "image": "img/WN_acry-set-60.jpg",
+    "name": "WINSOR & NEWTON GALERIA ACRYLIC COLOUR - MINI DISPLAY OF 60 TUBES X 60 ML",
+    "price": 13750.00
+  },
+  {
+    "id": 77,
+    "image": "img/WN-acrylic-set-15.jpg",
+    "name": "WINSOR & NEWTON GALERIA ACRYLIC COLOUR PAINTING SET- 9 TUBES X 60 ML",
+    "price": 8330.00
+  },
+  {
+    "id": 78,
+    "image": "img/WN-oil_color-bamboo-set-1.jpg",
+    "name": "WINSOR & NEWTON ARTISTS' OIL COLOUR BAMBOO BOX TUBE SET",
+    "price": 14990.00
+  },
+  {
+    "id": 79,
+    "image": "img/WN-watercolor-compact_set-halfpan-14.jpg",
+    "name": "WINSOR & NEWTON PROFESSIONAL WATER COLOUR - THE COMPACT SET – 14 HALF PANS",
+    "price": 10725.00
+  },
+  {
+    "id": 80,
+    "image": "img/WN-watercolor-halfpan-set-12.jpg",
+    "name": "WINSOR & NEWTON PROFESSIONAL WATER COLOUR FIELD BOX - 12 HALF PANS",
+    "price": 11950.00
+  },
+  {
+    "id": 81,
+    "image": "img/WN-watercolor-halfpan-set-24.jpg",
+    "name": "WINSOR & NEWTON PROFESSIONAL WATER COLOUR LIGHTWEIGHT SKETCHERS’ BOX - 24 HALF PANS",
+    "price": 13190.00
+  },
+  {
+    "id": 82,
+    "image": "img/WN-watercolor-tube-12x5ml.jpg",
+    "name": "WINSOR & NEWTON PROFESSIONAL WATER COLOUR LIGHTWEIGHT SKETCHERS’ BOX – 12 TUBES X 5 ML",
+    "price": 9765.00
+  },
+  {
+    "id": 83,
+    "image": "img/WN-watercolor-wood_box-set-1.jpg",
+    "name": "WINSOR & NEWTON PROFESSIONAL WATER COLOUR BAMBOO BOX TUBE SET – 12 TUBES OF 5ML",
+    "price": 14550.00
+  }
+]
